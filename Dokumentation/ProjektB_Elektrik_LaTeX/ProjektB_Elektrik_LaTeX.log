@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  14 FEB 2020 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  15 FEB 2020 15:08
 entering extended mode
 **./ProjektB_Elektrik_Latex.tex
 (ProjektB_Elektrik_Latex.tex
@@ -1686,20 +1686,20 @@ chapter 2.
 ]
 chapter 3.
 (chapter/aufgabenteilA.tex
-<Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg, id=102, 374.90062pt x 228.8
-55pt>
+<Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg, id=102, 318.43968pt x 216.0
+5719pt>
 File: Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg Graphic file (type jpg)
 
 <use Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg>
 Package pdftex.def Info: Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg  use
 d on input line 5.
-(pdftex.def)             Requested size: 241.84845pt x 147.63652pt.
-) [5 <./Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg>] [6
-
-
-]
+(pdftex.def)             Requested size: 241.84845pt x 164.08977pt.
+ [5 <./Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg>]) [6]
 chapter 4.
-(Standard/Ausblick.tex) [7] [8
+(Standard/Ausblick.tex) [7
+
+
+] [8
 
 
 ]
@@ -1772,39 +1772,37 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 273.
  ) 
 Here is how much of TeX's memory you used:
- 49553 strings out of 492895
- 1125653 string characters out of 3123735
- 1397030 words of memory out of 3000000
- 52707 multiletter control sequences out of 15000+200000
+ 49632 strings out of 492895
+ 1127331 string characters out of 3123735
+ 1400146 words of memory out of 3000000
+ 52784 multiletter control sequences out of 15000+200000
  548631 words of font info for 57 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
- 79i,10n,136p,9177b,950s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{figure.caption.5} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter*.10} has been referenced but does not exist
-, replaced by a fixed one
-
- <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-bx1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecsx1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecrm1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/p
-k/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\49157\AppData\Loca
-l\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk> <C:\Users\49157\Ap
-pData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\User
-s\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk
-> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
-css1728.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
-c/dpi600\ecsx1728.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecsx2074.pk><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/49157/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/49157/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/4
-9157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on ProjektB_Elektrik_Latex.pdf (29 pages, 230525 bytes).
+ 79i,14n,136p,9177b,950s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecsl1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
+ec/dpi600\ecbx1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\49157\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1200.pk> <C:\Users\49157\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\49157\
+AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2488.pk> <C:\Us
+ers\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.
+pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecss1440.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen
+/ec/dpi600\ecss1728.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecsx1728.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk><C:/Users/49157/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/49157/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/
+49157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ProjektB_Elektrik_Latex.pdf (29 pages, 267777 bytes).
 PDF statistics:
- 569 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
+ 607 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
