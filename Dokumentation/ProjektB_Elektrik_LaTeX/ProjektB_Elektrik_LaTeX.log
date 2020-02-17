@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  15 FEB 2020 17:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  17 FEB 2020 10:40
 entering extended mode
 **./ProjektB_Elektrik_Latex.tex
 (ProjektB_Elektrik_Latex.tex
@@ -1502,7 +1502,33 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+Package caption Info: We need package `ragged2e' on input line 182.
 
+("C:\Users\49157\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ragged2e\ragged2e.
+sty"
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+("C:\Users\49157\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip79
+\RaggedLeftLeftskip=\skip80
+\RaggedRightLeftskip=\skip81
+\CenteringRightskip=\skip82
+\RaggedLeftRightskip=\skip83
+\RaggedRightRightskip=\skip84
+\CenteringParfillskip=\skip85
+\RaggedLeftParfillskip=\skip86
+\RaggedRightParfillskip=\skip87
+\JustifyingParfillskip=\skip88
+\CenteringParindent=\skip89
+\RaggedLeftParindent=\skip90
+\RaggedRightParindent=\skip91
+\JustifyingParindent=\skip92
+)
 ("C:\Users\49157\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\transla
 tor-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
@@ -1694,17 +1720,32 @@ File: Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg  use
 d on input line 5.
 (pdftex.def)             Requested size: 241.84845pt x 164.08977pt.
- [5 <./Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg>]) [6]
+ [5 <./Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg>]
+<Images/ProjektB_Elektrik_Blockdiagramm.jpg, id=112, 871.75688pt x 306.39468pt>
+
+File: Images/ProjektB_Elektrik_Blockdiagramm.jpg Graphic file (type jpg)
+<use Images/ProjektB_Elektrik_Blockdiagramm.jpg>
+Package pdftex.def Info: Images/ProjektB_Elektrik_Blockdiagramm.jpg  used on in
+put line 82.
+(pdftex.def)             Requested size: 483.69691pt x 170.0043pt.
+<Images/ProjektB_Elektrik_Diagramme_1.jpg, id=113, 1204.5pt x 647.41875pt>
+File: Images/ProjektB_Elektrik_Diagramme_1.jpg Graphic file (type jpg)
+<use Images/ProjektB_Elektrik_Diagramme_1.jpg>
+Package pdftex.def Info: Images/ProjektB_Elektrik_Diagramme_1.jpg  used on inpu
+t line 89.
+(pdftex.def)             Requested size: 241.84845pt x 129.98526pt.
+) [6 <./Images/ProjektB_Elektrik_Blockdiagramm.jpg>] [7 <./Images/ProjektB_Elek
+trik_Diagramme_1.jpg>] [8
+
+
+]
 chapter 4.
-(Standard/Ausblick.tex) [7
-
-
-] [8
+(Standard/Ausblick.tex) [9] [10
 
 
 ]
 chapter 5.
-(Standard/Fazit.tex) [9] [10
+(Standard/Fazit.tex) [11] [12
 
 
 ]
@@ -1714,12 +1755,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--229
 
  []
 
-[11] [12
+[13] [14
 
 
 ]
 chapter without number
-(ProjektB_Elektrik_Latex.bbl [13] [14
+(ProjektB_Elektrik_Latex.bbl [15] [16
 
 
 ]
@@ -1730,30 +1771,30 @@ LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
 
 )
 No file ProjektB_Elektrik_Latex.ind.
-(Standard/Abkuerzungen.tex) [15] [16
+(Standard/Abkuerzungen.tex) [17] [18
 
 
 ] (ProjektB_Elektrik_Latex.lof)
 \tf@lof=\write7
 \openout7 = `ProjektB_Elektrik_Latex.lof'.
 
- [17]
-[18
+ [19]
+[20
 
 
 ] (ProjektB_Elektrik_Latex.lot)
 \tf@lot=\write8
 \openout8 = `ProjektB_Elektrik_Latex.lot'.
 
- [19
+ [21
 
 
-] [20
+] [22
 
 
 ]
 chapter A.
-[21
+[23
 
 
 ]
@@ -1772,10 +1813,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 273.
  ) 
 Here is how much of TeX's memory you used:
- 49632 strings out of 492895
- 1127331 string characters out of 3123735
- 1400146 words of memory out of 3000000
- 52784 multiletter control sequences out of 15000+200000
+ 49725 strings out of 492895
+ 1129619 string characters out of 3123735
+ 1400888 words of memory out of 3000000
+ 52864 multiletter control sequences out of 15000+200000
  548631 words of font info for 57 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
  79i,14n,136p,9177b,950s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1800,9 +1841,9 @@ b><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmr12.pfb><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr8.pfb><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ProjektB_Elektrik_Latex.pdf (29 pages, 267746 bytes).
+Output written on ProjektB_Elektrik_Latex.pdf (31 pages, 492600 bytes).
 PDF statistics:
- 607 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 627 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 

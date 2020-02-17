@@ -4,6 +4,8 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {\relax 3.1}{\ignorespaces Physikalisches Modell mit Spannungen und Str\IeC {\"o}men\relax }}{5}{figure.caption.4}% 
 \contentsline {figure}{\numberline {\relax 3.2}{\ignorespaces Unwuchtsystem mit Eingangsspannung und Ausgang (Kinematik, Kinetik)\relax }}{6}{figure.caption.5}% 
+\contentsline {figure}{\numberline {\relax 3.3}{\ignorespaces SIMULINK Blockdiagramm zur Simulation des Systemverhaltens mit Memory-Block zur Umgehung der algebraischen Schleife\relax }}{6}{figure.caption.6}% 
+\contentsline {figure}{\numberline {\relax 3.4}{\ignorespaces Simulationsergebnisse\relax }}{7}{figure.caption.7}% 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
