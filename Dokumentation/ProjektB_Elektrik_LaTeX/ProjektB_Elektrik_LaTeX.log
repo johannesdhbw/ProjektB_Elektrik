@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  5 MAR 2020 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  5 MAR 2020 22:40
 entering extended mode
 **./ProjektB_Elektrik_Latex.tex
 (ProjektB_Elektrik_Latex.tex
@@ -1728,7 +1728,7 @@ File: Images/ProjektB_Elektrik_Blockdiagramm.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images/ProjektB_Elektrik_Blockdiagramm.jpg  used on in
 put line 12.
 (pdftex.def)             Requested size: 483.69691pt x 170.0043pt.
-<Images/ProjektB_Elektrik_Diagramme_1.jpg, id=138, 1204.5pt x 647.41875pt>
+<Images/ProjektB_Elektrik_Diagramme_1.jpg, id=139, 1204.5pt x 647.41875pt>
 File: Images/ProjektB_Elektrik_Diagramme_1.jpg Graphic file (type jpg)
 <use Images/ProjektB_Elektrik_Diagramme_1.jpg>
 Package pdftex.def Info: Images/ProjektB_Elektrik_Diagramme_1.jpg  used on inpu
@@ -1820,7 +1820,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 277.
 Here is how much of TeX's memory you used:
  49763 strings out of 492895
  1130530 string characters out of 3123735
- 1404237 words of memory out of 3000000
+ 1406324 words of memory out of 3000000
  52883 multiletter control sequences out of 15000+200000
  551622 words of font info for 63 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
@@ -1847,7 +1847,7 @@ b><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 lic/amsfonts/cm/cmr6.pfb><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/49157/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ProjektB_Elektrik_Latex.pdf (31 pages, 517904 bytes).
+Output written on ProjektB_Elektrik_Latex.pdf (31 pages, 517667 bytes).
 PDF statistics:
  677 PDF objects out of 1000 (max. 8388607)
  59 named destinations out of 1000 (max. 500000)

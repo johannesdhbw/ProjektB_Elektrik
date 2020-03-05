@@ -2,15 +2,14 @@ Aufgrund der Schaltung in Abbildung \ref{fig:Schaltbild} und der Vernachlässigu
 
 \begin{equation}
 \begin{aligned}
-&U = U_R + U_i + U_L \\
-&U = R_A i_A + K_A \dot{\varphi} + L_A \frac{\diff{i_A}}{\diff{t}} \\
+U &= U_R + U_i + U_L \\
+U &= R_A i_A + K_A \dot{\varphi} + L_A \frac{\diff{i_A}}{\diff{t}} \\
 \frac{\diff{i_A}}{\diff{t}} &= \frac{1}{L_A} (U - K_A \dot{\varphi} - i_A R_A) = f_1(U, \dot{\varphi}, i_A)
 \label{enq:Spannungen}
 \end{aligned}
 \end{equation}
 
 Translatorisch:
-
 \begin{equation}
 \begin{aligned}
 (m_1 + m_2) \ddot{s} - m_2 e(\ddot{\varphi} \sin{\varphi} + \ddot{\varphi^2} \cos{\varphi}) + d_t \dot{s} + c s &= 0 \\
@@ -19,7 +18,6 @@ Translatorisch:
 \end{equation}
 
 Rotatorisch:
-
 \begin{equation}
 \begin{aligned}
 m_2 e^2 \dot{\varphi} - m_2 e \sin{\varphi} (\ddot{s} + g) d_r \dot{\varphi} - M_A &= 0 \\
@@ -29,7 +27,6 @@ m_2 e^2 \dot{\varphi} - m_2 e \sin{\varphi} (\ddot{s} + g) d_r \dot{\varphi} - K
 \end{equation}
 
 Die gegebenen mechanischen Systemparameter lauten dabei:
-
 \begin{table}[!hbt]
 	\centering
 	
@@ -46,12 +43,11 @@ Die gegebenen mechanischen Systemparameter lauten dabei:
 		Erdbeschleunigung & $g = 9.81 \frac{\meter}{\second^2}$ \\
 		\hline
 	\end{tabular}
-	\captionabove{Systemparameter des mechanischen Modells}
+	\captionabove{Mechanische Systemparameter der Nebenschlussmaschine}
 	\label{tab:SystemparameterME}
 \end{table}
 
 Um die Unwuchtkraft des Systems zu bestimmen, muss das 2. Newton'sche Axiom \ref{enq:2.Newton} angewendet werden:
-
 \begin{equation}
 	\begin{aligned}
 		F = m \cdot a \\
@@ -60,7 +56,6 @@ Um die Unwuchtkraft des Systems zu bestimmen, muss das 2. Newton'sche Axiom \ref
 \end{equation}
 
 Daraus ergibt sich, angepasst an das Unwuchsystem:
-
 \begin{equation}
 \begin{aligned}
 	F_U &= -m_2 \cdot \underline{a} \\

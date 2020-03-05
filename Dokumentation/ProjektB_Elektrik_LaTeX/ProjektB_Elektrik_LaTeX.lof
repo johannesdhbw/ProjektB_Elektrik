@@ -1,10 +1,10 @@
 \babel@toc {ngerman}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {\relax 2.1}{\ignorespaces Physikalisches Modell mit Spannungen und Str\IeC {\"o}men\relax }}{3}{figure.caption.4}% 
+\contentsline {figure}{\numberline {\relax 2.1}{\ignorespaces Physikalisches Modell einer Nebenschlussmaschine\relax }}{3}{figure.caption.4}% 
 \contentsline {figure}{\numberline {\relax 2.2}{\ignorespaces Unwuchtsystem mit Eingangsspannung und Ausgang (Kinematik, Kinetik)\relax }}{5}{figure.caption.7}% 
-\contentsline {figure}{\numberline {\relax 2.3}{\ignorespaces SIMULINK Blockdiagramm zur Simulation des Systemverhaltens mit Memory-Block zur Umgehung der algebraischen Schleife\relax }}{6}{figure.caption.8}% 
-\contentsline {figure}{\numberline {\relax 2.4}{\ignorespaces Winkelgeschwindigkeit $\omega $, Strecke $s$, Strom $i_A$ und Unwuchtkraft \IeC {\"u}ber die Zeit von $100 \milli \second $\relax }}{6}{figure.caption.9}% 
+\contentsline {figure}{\numberline {\relax 2.3}{\ignorespaces Matlab SIMULINK Blockdiagramm zur Simulation des Systemverhaltens mit Memory-Block zur Umgehung der algebraischen Schleife\relax }}{6}{figure.caption.8}% 
+\contentsline {figure}{\numberline {\relax 2.4}{\ignorespaces Ausgabe der Winkelgeschwindigkeit $\Omega $, Strecke $s$, dem Strom $i_A$ und der Unwuchtkraft $F_U$ \IeC {\"u}ber die Zeit von $100 \milli \second $ durch Scopes\relax }}{6}{figure.caption.9}% 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
