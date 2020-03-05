@@ -1,0 +1,100 @@
+Aufgrund der Schaltung in Abbildung \ref{fig:Schaltbild} und der Vernachlässigung des Erregerstroms $i_E$, ergibt sich das mathematische Modell der Nebenschlussmaschine mit den drei Systemgleichungen des Unwuchtsystems:
+
+\begin{equation}
+\begin{aligned}
+&U = U_R + U_i + U_L \\
+&U = R_A i_A + K_A \dot{\varphi} + L_A \frac{\diff{i_A}}{\diff{t}} \\
+\frac{\diff{i_A}}{\diff{t}} &= \frac{1}{L_A} (U - K_A \dot{\varphi} - i_A R_A) = f_1(U, \dot{\varphi}, i_A)
+\label{enq:Spannungen}
+\end{aligned}
+\end{equation}
+
+Translatorisch:
+
+\begin{equation}
+\begin{aligned}
+(m_1 + m_2) \ddot{s} - m_2 e(\ddot{\varphi} \sin{\varphi} + \ddot{\varphi^2} \cos{\varphi}) + d_t \dot{s} + c s &= 0 \\
+\ddot{s} = \frac{1}{m_1 + m_2}[m_2 e(\ddot{\varphi} \sin{\varphi} + \ddot{\varphi^2} \cos{\varphi}) - d_t \dot{s} - c s] &= f_2(\varphi, \dot{\varphi}, \ddot{\varphi}, s, \dot{s}) \label{enq:Bewgltrans}
+\end{aligned}
+\end{equation}
+
+Rotatorisch:
+
+\begin{equation}
+\begin{aligned}
+m_2 e^2 \dot{\varphi} - m_2 e \sin{\varphi} (\ddot{s} + g) d_r \dot{\varphi} - M_A &= 0 \\
+m_2 e^2 \dot{\varphi} - m_2 e \sin{\varphi} (\ddot{s} + g) d_r \dot{\varphi} - K_A i_A &= 0 \\
+\ddot{\varphi} = \frac{1}{m_2 e^2} [m_2 e \sin{\varphi} (\ddot{s} + g) d_r \dot{\varphi} + K_A i_A] &= f_3(\varphi, \dot{\varphi}, \ddot{s}, i_A) \label{enq:Bewglrot}
+\end{aligned}
+\end{equation}
+
+Die gegebenen mechanischen Systemparameter lauten dabei:
+
+\begin{table}[!hbt]
+	\centering
+	
+	\begin{tabular}{| l | l |}
+		\hline
+		Massen & $m_1 = 90 \kilogram \text{; } m_2 = 10 \kilogram$ \\
+		\hline
+		Federkonstante & $c = 1600 \frac{\newton}{\meter}$ \\
+		\hline
+		Dämpfungskonstanten & $d_t = 5 \frac{\newton\second}{\meter}$ \\
+		\hline
+		Rotationsarm & $e = 0.2 \meter$ \\
+		\hline
+		Erdbeschleunigung & $g = 9.81 \frac{\meter}{\second^2}$ \\
+		\hline
+	\end{tabular}
+	\captionabove{Systemparameter des mechanischen Modells}
+	\label{tab:SystemparameterME}
+\end{table}
+
+Um die Unwuchtkraft des Systems zu bestimmen, muss das 2. Newton'sche Axiom \ref{enq:2.Newton} angewendet werden:
+
+\begin{equation}
+	\begin{aligned}
+		F = m \cdot a \\
+		\label{enq:2.Newton}
+	\end{aligned}
+\end{equation}
+
+Daraus ergibt sich, angepasst an das Unwuchsystem:
+
+\begin{equation}
+\begin{aligned}
+	F_U &= -m_2 \cdot \underline{a} \\
+	\text{mit } \underline{a} &= \begin{bmatrix} e \ddot{\varphi} \cos \varphi  - e \dot{\varphi^2} \sin\varphi \\
+	-e \ddot{\varphi} \sin \varphi  - e \dot{\varphi^2} \cos \varphi \end{bmatrix} \text{ ergibt sich:} \\
+	\underline{F_U} &= \begin{bmatrix} e \ddot{\varphi} \cos \varphi  - e \dot{\varphi^2} \sin\varphi \\
+	-e \ddot{\varphi} \sin \varphi  - e \dot{\varphi^2} \cos \varphi \end{bmatrix} \\
+	\label{enq:Unwuchtkraft}
+\end{aligned}
+\end{equation}
+
+Das Unwuchtsystem kann modelliert nun wie folgt dargestellt werden:
+
+%Folgesituationen
+\begin{figure}[hbt]
+	\begin{tikzpicture}
+	
+	%Zeichnung Rechteck
+	\draw (4,0.5) rectangle (9,2.5) node[midway, align=center](Block){Unwuchtsystem}; 
+	
+	%Pfeile
+	\begin{scope}
+	\draw[->] (0,1.5) -- (4,1.5);
+	\draw[->] (9,1.5) -- (13,1.5);
+	\end{scope}
+	
+	%Parameterbeschriftungen
+	\draw(0,2.25) node(uin) {$u = U$};
+	\draw(13.75,2.25) node(yvek) {$\underline{y} = \left[\begin{array}{c} s \\\ \dot{\varphi} \\\ M_A \\\ F_U \end{array}\right]$};
+	
+	\end{tikzpicture}
+	
+	%Abbildungsunterschrift
+	\caption{Unwuchtsystem mit Eingangsspannung und Ausgang (Kinematik, Kinetik)}
+	\label{fig:Unwuchtsystem}
+	
+\end{figure}

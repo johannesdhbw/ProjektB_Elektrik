@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  4 MAR 2020 23:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  5 MAR 2020 19:22
 entering extended mode
 **./ProjektB_Elektrik_Latex.tex
 (ProjektB_Elektrik_Latex.tex
@@ -1693,7 +1693,7 @@ ifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.211 \chapter
-              {Erläuterung der Aufgabenstellung} [1
+              {Aufgabenteil a.)} [1
 
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
@@ -1701,75 +1701,71 @@ l.211 \chapter
 <to be read again> 
                    \relax 
 l.211 \chapter
-              {Erläuterung der Aufgabenstellung} [2
+              {Aufgabenteil a.)} [2
 
 
 ]
 chapter 2.
-(Standard/Aufgabenstellung.tex) [3] [4
-
-
-]
-chapter 3.
-(chapter/aufgabenteilA.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
+(chapter/aufgabenteilA.tex) (chapter/physikalisch.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-<Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg, id=105, 318.43968pt x 216.0
-5719pt>
+<Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg, id=97, 318.43968pt x 216.05
+719pt>
 File: Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg Graphic file (type jpg)
 
 <use Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg>
 Package pdftex.def Info: Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg  use
-d on input line 6.
+d on input line 5.
 (pdftex.def)             Requested size: 241.84845pt x 164.08977pt.
-[5 <./Images/ProjektB_Elektrik_Ph_Modell_Schaltplan.jpg>]
-<Images/ProjektB_Elektrik_Blockdiagramm.jpg, id=115, 871.75688pt x 306.39468pt>
+) (chapter/mathematisch.tex [3 <./Images/ProjektB_Elektrik_Ph_Modell_Schaltplan
+.jpg>] [4]) (chapter/simulation.tex [5]
+<Images/ProjektB_Elektrik_Blockdiagramm.jpg, id=137, 871.75688pt x 306.39468pt>
 
 File: Images/ProjektB_Elektrik_Blockdiagramm.jpg Graphic file (type jpg)
 <use Images/ProjektB_Elektrik_Blockdiagramm.jpg>
 Package pdftex.def Info: Images/ProjektB_Elektrik_Blockdiagramm.jpg  used on in
-put line 112.
+put line 12.
 (pdftex.def)             Requested size: 483.69691pt x 170.0043pt.
-<Images/ProjektB_Elektrik_Diagramme_1.jpg, id=116, 1204.5pt x 647.41875pt>
+<Images/ProjektB_Elektrik_Diagramme_1.jpg, id=138, 1204.5pt x 647.41875pt>
 File: Images/ProjektB_Elektrik_Diagramme_1.jpg Graphic file (type jpg)
 <use Images/ProjektB_Elektrik_Diagramme_1.jpg>
 Package pdftex.def Info: Images/ProjektB_Elektrik_Diagramme_1.jpg  used on inpu
-t line 119.
+t line 22.
 (pdftex.def)             Requested size: 241.84845pt x 129.98526pt.
-) [6] [7 <./Images/ProjektB_Elektrik_Blockdiagramm.jpg> <./Images/ProjektB_Elek
-trik_Diagramme_1.jpg>] [8
+) [6 <./Images/ProjektB_Elektrik_Blockdiagramm.jpg> <./Images/ProjektB_Elektrik
+_Diagramme_1.jpg>]
+chapter 3.
+(chapter/aufgabenteilB.tex) [7
+
+
+] [8
 
 
 ]
 chapter 4.
-(chapter/aufgabenteilB.tex) [9] [10
+(Standard/Ausblick.tex) [9] [10
 
 
 ]
 chapter 5.
-(Standard/Ausblick.tex) [11] [12
-
-
-]
-chapter 6.
-(Standard/Fazit.tex) [13] [14
+(Standard/Fazit.tex) [11] [12
 
 
 ]
 chapter without number
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--231
+Underfull \hbox (badness 10000) in paragraph at lines 231--233
 
  []
 
-[15] [16
+[13] [14
 
 
 ]
 chapter without number
-(ProjektB_Elektrik_Latex.bbl [17] [18
+(ProjektB_Elektrik_Latex.bbl [15] [16
 
 
 ]
@@ -1780,38 +1776,38 @@ LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
 
 )
 No file ProjektB_Elektrik_Latex.ind.
-(Standard/Abkuerzungen.tex) [19] [20
+(Standard/Abkuerzungen.tex) [17] [18
 
 
 ] (ProjektB_Elektrik_Latex.lof)
 \tf@lof=\write7
 \openout7 = `ProjektB_Elektrik_Latex.lof'.
 
- [21]
-[22
+ [19]
+[20
 
 
 ] (ProjektB_Elektrik_Latex.lot)
 \tf@lot=\write8
 \openout8 = `ProjektB_Elektrik_Latex.lot'.
 
- [23
+ [21
 
 
-] [24
+] [22
 
 
 ]
 chapter A.
-[25
+[23
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 277.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 277.
  (ProjektB_Elektrik_Latex.aux (pages/titelseite.aux) (pages/erklaerung.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 275.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 275.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 277.
 Package rerunfilecheck Info: File `ProjektB_Elektrik_Latex.out' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1819,16 +1815,16 @@ Package rerunfilecheck Info: File `ProjektB_Elektrik_Latex.out' has not changed
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 275.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 277.
  ) 
 Here is how much of TeX's memory you used:
- 49749 strings out of 492895
- 1130093 string characters out of 3123735
- 1405005 words of memory out of 3000000
- 52877 multiletter control sequences out of 15000+200000
+ 49763 strings out of 492895
+ 1130530 string characters out of 3123735
+ 1404237 words of memory out of 3000000
+ 52883 multiletter control sequences out of 15000+200000
  551622 words of font info for 63 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
- 79i,21n,136p,9177b,1237s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 79i,21n,136p,9177b,1368s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 ecsl1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
 ec/dpi600\ecbx1200.pk> <C:\Users\49157\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
@@ -1851,9 +1847,9 @@ b><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 lic/amsfonts/cm/cmr6.pfb><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/49157/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ProjektB_Elektrik_Latex.pdf (33 pages, 509769 bytes).
+Output written on ProjektB_Elektrik_Latex.pdf (31 pages, 517904 bytes).
 PDF statistics:
- 657 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 677 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
