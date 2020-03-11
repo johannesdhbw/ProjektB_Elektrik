@@ -1,11 +1,14 @@
 \babel@toc {ngerman}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {\relax 2.1}{\ignorespaces Physikalisches Modell einer Nebenschlussmaschine\relax }}{3}{figure.caption.4}% 
-\contentsline {figure}{\numberline {\relax 2.2}{\ignorespaces Unwuchtsystem mit Eingangsspannung und Ausgang (Kinematik, Kinetik)\relax }}{5}{figure.caption.7}% 
-\contentsline {figure}{\numberline {\relax 2.3}{\ignorespaces Matlab SIMULINK Blockdiagramm zur Simulation des Systemverhaltens mit Memory-Block zur Umgehung der algebraischen Schleife\relax }}{6}{figure.caption.8}% 
-\contentsline {figure}{\numberline {\relax 2.4}{\ignorespaces Ausgabe der Winkelgeschwindigkeit $\Omega $, Strecke $s$, dem Strom $i_A$ und der Unwuchtkraft $F_U$ \IeC {\"u}ber die Zeit von $100 \milli \second $ durch Scopes\relax }}{6}{figure.caption.9}% 
+\contentsline {figure}{\numberline {\relax 2.1}{\ignorespaces Physikalisches Modell einer Nebenschlussmaschine\relax }}{3}{figure.caption.5}% 
+\contentsline {figure}{\numberline {\relax 2.2}{\ignorespaces Unwuchtsystem mit Eingangsspannung und Ausgang (Kinematik, Kinetik)\relax }}{5}{figure.caption.8}% 
+\contentsline {figure}{\numberline {\relax 2.3}{\ignorespaces Matlab SIMULINK Blockdiagramm zur Simulation des Systemverhaltens mit Memory-Block zur Umgehung der algebraischen Schleife\relax }}{6}{figure.caption.9}% 
+\contentsline {figure}{\numberline {\relax 2.4}{\ignorespaces Angelegte Variablen in Matlab im Workspace\relax }}{6}{figure.caption.10}% 
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 3.1}{\ignorespaces Simulationsergebnis: Antriebsmoment des Gleichstrommotors\relax }}{7}{figure.caption.11}% 
+\contentsline {figure}{\numberline {\relax 3.2}{\ignorespaces Simulationsergebnis: Winkelgeschwindigkeit des mechatronischen Systems\relax }}{8}{figure.caption.12}% 
+\contentsline {figure}{\numberline {\relax 3.3}{\ignorespaces Simulationsergebnis: Auslenkung$\cdot $1000 und Unwuchtkraft des mechatronischen Systems\relax }}{8}{figure.caption.13}% 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

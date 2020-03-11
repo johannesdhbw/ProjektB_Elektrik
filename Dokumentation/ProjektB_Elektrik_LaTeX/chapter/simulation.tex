@@ -14,12 +14,13 @@ Die Parameter werden mit den Funktionen \ref{enq:Spannungen}, \ref{enq:Bewgltran
 	\label{fig:Blockdiagramm}
 \end{figure}
 
-Mithilfe von Scopes werden nun die gesuchten Signale abgegriffen und als Funktionen der Zeit dargestellt. \\
-In der folgenden Abbildung \ref{fig:Simulationsergebnisse} sind Winkelgeschwindigkeit $\Omega$, die Strecke $s$, der Strom $i_A$ und die Unwuchtkraft $F_U$ über die Zeit von $100 \milli\second$ dargestellt.
+Als nächstes müssen die Variablen im Workspace angelegt werden. Diese sind wie folgt zu deklarieren:
 
 \begin{figure}[hbt]
 	\centering
-	\includegraphics[width=0.5\linewidth]{Images/ProjektB_Elektrik_Diagramme_1}
-	\caption{Ausgabe der Winkelgeschwindigkeit $\Omega$, Strecke $s$, dem Strom $i_A$ und der Unwuchtkraft $F_U$ über die Zeit von $100 \milli\second$ durch Scopes}
-	\label{fig:Simulationsergebnisse}
+	\includegraphics[width=0.3\linewidth]{Images/Variablen}
+	\caption{Angelegte Variablen in Matlab im Workspace}
+	\label{fig:Variablen}
 \end{figure}
+
+Damit Matlab Simulink die Variablen nicht selbst anlegt und mit Werten überschreibt, muss eine Referenz auf die Eingangsvariable $U$ im Workspace gesetzt werden. Nun kann die Schaltung simuliert werden.
