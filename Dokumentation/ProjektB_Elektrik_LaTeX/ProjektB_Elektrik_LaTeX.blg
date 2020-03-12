@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: ProjektB_Elektrik_Lat
 A level-1 auxiliary file: pages/titelseite.aux
 A level-1 auxiliary file: pages/erklaerung.aux
 I couldn't open database file Literatur/literatur.bib
----line 91 of file ProjektB_Elektrik_Latex.aux
+---line 97 of file ProjektB_Elektrik_Latex.aux
  : \bibdata{Literatur/literatur
  :                             }
 I'm skipping whatever remains of this command
