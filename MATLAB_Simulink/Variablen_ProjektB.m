@@ -31,8 +31,9 @@ ylabel('Weg s_{out} * 1000 in m, UnwuchtkraftF_U in N', 'Interpreter', 'tex');
 title('Auslenkung und Unwuchtkraft');
 legend('Weg s_{out} * 1000', 'UnwuchtkraftF_U');
 
-figure(2),plot(out.omega_out);
+figure(2),plot(out.omega_out, 'r');
 xlabel('Zeit in s');
+set(gca,'yLim',[1.8 2.2]);
 ylabel('Winkelgeschwindigkeit in 1/s', 'Interpreter', 'tex');
 title('Winkelgeschwindigkeit Omega');
 
