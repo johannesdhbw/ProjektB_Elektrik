@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  13 MAR 2020 11:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  14 MAR 2020 21:38
 entering extended mode
 **./ProjektB_Elektrik_Latex.tex
 (ProjektB_Elektrik_Latex.tex
@@ -1776,17 +1776,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--227
 
  []
 
-[11] [12
-
-
-]
+[11] [12]
 chapter without number
 
 Underfull \hbox (badness 10000) in paragraph at lines 230--232
 
  []
 
-[13] [14
+[13
+
+
+] [14
 
 
 ]
@@ -1873,9 +1873,9 @@ b><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 lic/amsfonts/cm/cmr6.pfb><C:/Users/49157/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/49157/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ProjektB_Elektrik_Latex.pdf (31 pages, 618983 bytes).
+Output written on ProjektB_Elektrik_Latex.pdf (31 pages, 620736 bytes).
 PDF statistics:
- 714 PDF objects out of 1000 (max. 8388607)
+ 717 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
