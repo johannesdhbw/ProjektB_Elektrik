@@ -1,12 +1,12 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: ProjektB_Elektrik_Latex.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: ProjektB_Elektrik_LaTeX.aux
 A level-1 auxiliary file: pages/titelseite.aux
 A level-1 auxiliary file: pages/erklaerung.aux
 I couldn't open database file Literatur/literatur.bib
----line 93 of file ProjektB_Elektrik_Latex.aux
+---line 93 of file ProjektB_Elektrik_LaTeX.aux
  : \bibdata{Literatur/literatur
  :                             }
 I'm skipping whatever remains of this command
 The style file: alphadin.bst
-I found no \citation commands---while reading file ProjektB_Elektrik_Latex.aux
-I found no database files---while reading file ProjektB_Elektrik_Latex.aux
+I found no \citation commands---while reading file ProjektB_Elektrik_LaTeX.aux
+I found no database files---while reading file ProjektB_Elektrik_LaTeX.aux
 (There were 3 error messages)

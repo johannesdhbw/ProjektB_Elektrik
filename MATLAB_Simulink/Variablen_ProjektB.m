@@ -9,7 +9,7 @@ dr = 10.;
 %Stablaenge
 e = 0.2;
 % Ankerflussverkettung
-K_A = 50.;
+K_A = 40.;
 % Ohmscher Widerstand
 R_A = 0.1;
 % Induktiver Widerstand
