@@ -4,12 +4,12 @@ m2 = 10.;
 % Federkonstante
 c = 1600.;
 % Daempfungskonstanten
-dt = 5.;
+dt = 2000.;
 dr = 10.;
 %Stablaenge
 e = 0.2;
 % Ankerflussverkettung
-K_A = 40.;
+K_A = 50.;
 % Ohmscher Widerstand
 R_A = 0.1;
 % Induktiver Widerstand

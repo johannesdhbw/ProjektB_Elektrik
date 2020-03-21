@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.15)  21 MAR 2020 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.15)  21 MAR 2020 19:15
 entering extended mode
 **./ProjektB_Elektrik_LaTeX.tex
 (ProjektB_Elektrik_LaTeX.tex
@@ -1751,29 +1751,30 @@ File: Images/Moment.png Graphic file (type png)
 <use Images/Moment.png>
 Package pdftex.def Info: Images/Moment.png  used on input line 17.
 (pdftex.def)             Requested size: 483.69691pt x 236.71211pt.
-<Images/Omega.png, id=173, 1204.5pt x 589.4522pt>
+ [8 <./Images/Moment.png (PNG copy)>]
+<Images/Omega.png, id=177, 1204.5pt x 589.4522pt>
 File: Images/Omega.png Graphic file (type png)
 <use Images/Omega.png>
-Package pdftex.def Info: Images/Omega.png  used on input line 27.
+Package pdftex.def Info: Images/Omega.png  used on input line 29.
 (pdftex.def)             Requested size: 483.69691pt x 236.71211pt.
-<Images/StreckeundUnwuchtkraft.png, id=175, 1201.48875pt x 468.24937pt>
+<Images/StreckeundUnwuchtkraft.png, id=180, 1201.48875pt x 468.24937pt>
 File: Images/StreckeundUnwuchtkraft.png Graphic file (type png)
 <use Images/StreckeundUnwuchtkraft.png>
 Package pdftex.def Info: Images/StreckeundUnwuchtkraft.png  used on input line 
-38.
+39.
 (pdftex.def)             Requested size: 483.69691pt x 188.51105pt.
-) [8 <./Images/Moment.png (PNG copy)>] [9 <./Images/Omega.png (PNG copy)> <./Im
-ages/StreckeundUnwuchtkraft.png (PNG copy)>] [10
-
-
-]
+ [9 <./Images/Omega.png (PNG copy)>]) [10 <./Images/StreckeundUnwuchtkraft.png 
+(PNG copy)>]
 chapter 4.
 (Standard/Fazit.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 4--227
 
  []
 
-[11] [12]
+[11
+
+
+] [12]
 chapter without number
 
 Underfull \hbox (badness 10000) in paragraph at lines 230--232
@@ -1843,7 +1844,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
 Here is how much of TeX's memory you used:
  49185 strings out of 492946
  1116960 string characters out of 3126266
- 1390550 words of memory out of 3000000
+ 1390551 words of memory out of 3000000
  52276 multiletter control sequences out of 15000+200000
  551622 words of font info for 63 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
@@ -1870,9 +1871,9 @@ b><C:/Users/johan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 lic/amsfonts/cm/cmr6.pfb><C:/Users/johan/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/johan/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ProjektB_Elektrik_LaTeX.pdf (31 pages, 622815 bytes).
+Output written on ProjektB_Elektrik_LaTeX.pdf (31 pages, 626396 bytes).
 PDF statistics:
- 727 PDF objects out of 1000 (max. 8388607)
+ 730 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
  221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
