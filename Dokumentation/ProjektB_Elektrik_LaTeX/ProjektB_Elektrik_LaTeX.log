@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  27 MAR 2020 10:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.21)  27 MAR 2020 10:57
 entering extended mode
 **./ProjektB_Elektrik_Latex.tex
 (ProjektB_Elektrik_Latex.tex
@@ -1769,35 +1769,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--25
 
  []
 
+[10 <./Images/Moment.png (PNG copy)>]
+<Images/Omega.png, id=181, 1204.5pt x 589.4522pt>
+File: Images/Omega.png Graphic file (type png)
+<use Images/Omega.png>
+Package pdftex.def Info: Images/Omega.png  used on input line 30.
+(pdftex.def)             Requested size: 483.69691pt x 236.71211pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--25
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
 
  []
 
-<Images/Omega.png, id=177, 1204.5pt x 589.4522pt>
-File: Images/Omega.png Graphic file (type png)
-<use Images/Omega.png>
-Package pdftex.def Info: Images/Omega.png  used on input line 28.
-(pdftex.def)             Requested size: 483.69691pt x 236.71211pt.
-<Images/StreckeundUnwuchtkraft.png, id=180, 1201.48875pt x 468.24937pt>
+[11 <./Images/Omega.png (PNG copy)>]
+<Images/StreckeundUnwuchtkraft.png, id=189, 1201.48875pt x 468.24937pt>
 File: Images/StreckeundUnwuchtkraft.png Graphic file (type png)
 <use Images/StreckeundUnwuchtkraft.png>
 Package pdftex.def Info: Images/StreckeundUnwuchtkraft.png  used on input line 
-37.
+42.
 (pdftex.def)             Requested size: 483.69691pt x 188.51105pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 33--224
-
- []
-
-
-Underfull \vbox (badness 1454) has occurred while \output is active []
-
- [10 <./Images/Moment.png (PNG copy)>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11 <./Images/Omega.png (PNG copy)>] [12 <./Images/StreckeundUnwuchtkraft.png 
-(PNG copy)>]
+) [12 <./Images/StreckeundUnwuchtkraft.png (PNG copy)>]
 chapter 4.
 (Standard/Fazit.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 4--227
@@ -1912,7 +1902,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
 Here is how much of TeX's memory you used:
  49819 strings out of 492895
  1131802 string characters out of 3123735
- 1405711 words of memory out of 3000000
+ 1403711 words of memory out of 3000000
  52922 multiletter control sequences out of 15000+200000
  552619 words of font info for 65 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
@@ -1941,9 +1931,9 @@ ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/49157/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/49157/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/49157/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ProjektB_Elektrik_Latex.pdf (33 pages, 669446 bytes).
+Output written on ProjektB_Elektrik_Latex.pdf (33 pages, 668824 bytes).
 PDF statistics:
- 852 PDF objects out of 1000 (max. 8388607)
+ 851 PDF objects out of 1000 (max. 8388607)
  68 named destinations out of 1000 (max. 500000)
  181 words of extra memory for PDF output out of 10000 (max. 10000000)
 
