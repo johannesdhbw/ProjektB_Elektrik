@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.15)  23 MAR 2020 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.15)  27 MAR 2020 10:12
 entering extended mode
 **./ProjektB_Elektrik_LaTeX.tex
 (ProjektB_Elektrik_LaTeX.tex
@@ -1740,7 +1740,7 @@ chapter 3.
 <Images/Simulationscode.jpg, id=159, 529.22719pt x 286.06876pt>
 File: Images/Simulationscode.jpg Graphic file (type jpg)
 <use Images/Simulationscode.jpg>
-Package pdftex.def Info: Images/Simulationscode.jpg  used on input line 8.
+Package pdftex.def Info: Images/Simulationscode.jpg  used on input line 7.
 (pdftex.def)             Requested size: 483.69691pt x 261.45789pt.
  [7
 
@@ -1749,38 +1749,43 @@ Package pdftex.def Info: Images/Simulationscode.jpg  used on input line 8.
 <Images/Moment.png, id=171, 1204.5pt x 589.4522pt>
 File: Images/Moment.png Graphic file (type png)
 <use Images/Moment.png>
-Package pdftex.def Info: Images/Moment.png  used on input line 17.
+Package pdftex.def Info: Images/Moment.png  used on input line 16.
 (pdftex.def)             Requested size: 483.69691pt x 236.71211pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--25
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--25
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
 
 <Images/Omega.png, id=173, 1204.5pt x 589.4522pt>
 File: Images/Omega.png Graphic file (type png)
 <use Images/Omega.png>
-Package pdftex.def Info: Images/Omega.png  used on input line 28.
+Package pdftex.def Info: Images/Omega.png  used on input line 27.
 (pdftex.def)             Requested size: 483.69691pt x 236.71211pt.
 <Images/StreckeundUnwuchtkraft.png, id=176, 1201.48875pt x 468.24937pt>
 File: Images/StreckeundUnwuchtkraft.png Graphic file (type png)
 <use Images/StreckeundUnwuchtkraft.png>
 Package pdftex.def Info: Images/StreckeundUnwuchtkraft.png  used on input line 
-37.
+36.
 (pdftex.def)             Requested size: 483.69691pt x 188.51105pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+)
+Underfull \hbox (badness 10000) in paragraph at lines 32--224
 
  []
 
 
 Underfull \vbox (badness 1454) has occurred while \output is active []
 
- [8 <./Images/Moment.png (PNG copy)>])
+ [8 <./Images/Moment.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9 <./Images/Omega.png (PNG copy)>] [10 <./Images/StreckeundUnwuchtkraft.png (
@@ -1891,9 +1896,9 @@ b><C:/Users/johan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 lic/amsfonts/cm/cmr6.pfb><C:/Users/johan/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/johan/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ProjektB_Elektrik_LaTeX.pdf (31 pages, 627804 bytes).
+Output written on ProjektB_Elektrik_LaTeX.pdf (31 pages, 628059 bytes).
 PDF statistics:
- 729 PDF objects out of 1000 (max. 8388607)
+ 730 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
  221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
