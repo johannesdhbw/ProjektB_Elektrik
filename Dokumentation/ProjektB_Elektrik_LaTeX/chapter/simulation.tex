@@ -1,7 +1,7 @@
-Aufgrund einer Kopplung der beiden Gleichungen \ref{enq:Bewgltrans} und \ref{enq:Bewglrot} entsteht eine sogenannte algebraische Schleife, die besagt:
+Aufgrund einer Kopplung der beiden Gleichungen \ref{enq:Bewgltrans} und \ref{enq:Bewglrot} entsteht eine sogenannte algebraische Schleife, welche besagt:
 
 \begin{center}
-	Ursache gleich Wirkung gleich Ursache.
+	Ursache gleich Wirkung gleich Ursache. \cite[S. 64]{HelmutBode.}
 \end{center}
 
 Durch eine Vereinfachung des Systems soll die algebraische Schleife verhindert werden. Dies wird mithilfe von Matlab SIMULINK durchgeführt. \\
@@ -14,7 +14,9 @@ Die Parameter werden mit den Funktionen \ref{enq:Spannungen}, \ref{enq:Bewgltran
 	\label{fig:Blockdiagramm}
 \end{figure}
 
-Als nächstes müssen die Variablen im Workspace angelegt werden. Diese sind wie folgt zu deklarieren:
+\newpage
+
+Als nächstes müssen die Variablen im Workspace angelegt werden. Diese sind wie folgt zu deklarieren: \\
 
 \begin{figure}[hbt]
 	\centering
@@ -23,4 +25,4 @@ Als nächstes müssen die Variablen im Workspace angelegt werden. Diese sind wie
 	\label{fig:Variablen}
 \end{figure}
 
-Damit Matlab Simulink die Variablen nicht selbst anlegt und mit Werten überschreibt, muss eine Referenz auf die Eingangsvariable $U$ des Worspaces im Model Explorer gesetzt werden. Falls die benötigten Variablen von Simulink schon angelegt wurden, muss diese über den Model Explorer gelöscht werden. Nun kann die Schaltung mit den richtigen Parametern simuliert werden.
+Damit Matlab SIMULINK die Variablen nicht selbst anlegt und mit Werten überschreibt, muss eine Referenz auf die Eingangsvariable $U$ des Worspaces im Model Explorer gesetzt werden. Falls die benötigten Variablen von SIMULINK schon angelegt wurden, muss diese über den Model Explorer gelöscht werden. Nun kann die Schaltung mit den richtigen Parametern simuliert werden.

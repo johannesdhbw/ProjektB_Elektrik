@@ -26,7 +26,10 @@ m_2 e^2 \dot{\varphi} - m_2 e \sin{\varphi} (\ddot{s} + g) d_r \dot{\varphi} - K
 \end{aligned}
 \end{equation}
 
-Die gegebenen mechanischen Systemparameter lauten dabei:
+\newpage
+
+Die in Tabelle \ref{tab:SystemparameterME} gegebenen mechanischen Systemparameter wurden ebenfalls, wie die des physikalischen Modells vorher definiert. \\
+
 \begin{table}[!hbt]
 	\centering
 	
@@ -58,11 +61,11 @@ Um die Unwuchtkraft des Systems zu bestimmen, muss das 2. Newton'sche Axiom \ref
 Daraus ergibt sich, angepasst an das Unwuchsystem:
 \begin{equation}
 \begin{aligned}
-	F_U &= -m_2 \cdot \underline{a} \\
+	F_U &= -m_2 \cdot \underline{a} \\ \\
 	\text{mit } \underline{a} &= \begin{bmatrix} e \ddot{\varphi} \cos \varphi  - e \dot{\varphi^2} \sin\varphi \\
 	-e \ddot{\varphi} \sin \varphi  - e \dot{\varphi^2} \cos \varphi \end{bmatrix} \text{ ergibt sich:} \\
-	\underline{F_U} &= \begin{bmatrix} e \ddot{\varphi} \cos \varphi  - e \dot{\varphi^2} \sin\varphi \\
-	-e \ddot{\varphi} \sin \varphi  - e \dot{\varphi^2} \cos \varphi \end{bmatrix} \\
+	\underline{F_U} &= \begin{bmatrix} - m_2 e (\ddot{\varphi} \cos \varphi  - \dot{\varphi^2} \sin\varphi) \\
+	m_2 e (\ddot{\varphi} \sin \varphi  + \dot{\varphi^2} \cos \varphi) \end{bmatrix} \\
 	\label{enq:Unwuchtkraft}
 \end{aligned}
 \end{equation}
